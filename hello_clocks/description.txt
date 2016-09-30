@@ -1,1 +1,2 @@
 Common clock initializations are performed. 
+2016/10/1 v1.1 cxl
