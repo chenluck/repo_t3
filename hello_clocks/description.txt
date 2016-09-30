@@ -1,2 +1,3 @@
 Common clock initializations are performed. 
-2016/10/1 v1.1 cxl
+2016/10/1 v1.1 cxl update remote
+2016/10/1 v1.2 cxl update local
