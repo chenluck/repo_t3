@@ -1,3 +1,4 @@
 Common clock initializations are performed. 
 2016/10/1 v1.1 cxl update remote
 2016/10/1 v1.2 cxl update local
+2016/10/7 v1.3 cxl update in Hair PC
