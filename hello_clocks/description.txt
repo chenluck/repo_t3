@@ -3,3 +3,4 @@ Common clock initializations are performed.
 2016/10/1 v1.2 cxl update local
 2016/10/7 v1.3 cxl update in Hair PC
 2016/10/7 v1.4 cxl update in IE online
+2016/10/7 v1.5 cxl update in IE online 2nd
